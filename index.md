@@ -1,6 +1,57 @@
+<html>
 
-## Homepage
-### Institution
-Gaoling School of Artificial Intelligence, Renmin University of China
-### Research interests
-Machine Learning, Statistical Learning Theory
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="description" content="Home page of Huayi Tang">
+	<link rel="stylesheet" href="./files/jemdoc.css" type="text/css">
+	<title>Huayi Tang</title>
+</head>
+
+
+<body>
+
+<table><tbody><tr>
+    <td width="670">
+        <div id="toptitle"><h1>Huayi Tang &nbsp;</h1></div>
+        <h3>Ph.D. Student</h3>  
+        <p>
+            Gaoling School of Artificial Intelligence <br>
+            Renmin University of China <br>
+            Email: huayitang[at]ruc[dot]edu[dot]cn<br>
+            <br>
+        </p>
+    </td>
+</tr></tbody></table>
+
+
+<h2>About me</h2>
+    <p>I am a second-year Ph.D. student at the Gaoling School of Artificial Intelligence,
+        Renmin University of China, supervised by Prof. Yong Liu. 
+         Before that, I received my B.E. degree from the School of Mathematical Sciences, University of Electronic and Science and Technology of China. 
+         My research interest lies in the areas of machine learning and statistical learning theory. Recently, I am interested in graph representation learning and self-supervised learning.
+    </p>
+
+
+<h2>Selected Publications</h2>
+
+<ul>
+    <li>
+    <p>
+    <a href="https://openreview.net/forum?id=BhMyLk0YNy" target="_blank">Towards Understanding Generalization of Graph Neural Networks</a><br />
+    <b>Huayi Tang</b> and Yong Liu<br />
+    ICML 2023
+    </p>
+    </li>
+</ul>
+
+<h2>Preprints</h2>
+<ul>
+<li>
+<a href="files/draft.pdf" target="_blank">Information-Theoretic Generalization Bounds for Transductive Learning and its Applications</a><br />
+<b>Huayi Tang</b> and Yong Liu<br />
+</li>
+</ul>
+
+</body>
+
+</html>
